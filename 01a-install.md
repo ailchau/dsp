@@ -48,14 +48,12 @@ cross-platform.
 
 Did you install Python 2 or 3? Why?  
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+>> Python 3. Although I am more familiar with Python 2, the bootcamp would be a good opportunity to switch to Python 3, especially since Python 2 will not be maintained past 2020.
 
 ### Q2. Which Python Version Installed   
 
 How can you check the version of Python installed if you happen to be on an unfamiliar computer?
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+>> Run `python --version` at the command line.
 
  
-
-
