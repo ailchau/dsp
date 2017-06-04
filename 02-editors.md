@@ -81,7 +81,7 @@ Upload these 3 files to the [`editors`](editors/) folder.
 
 What terminal editor will be your preferred choice of use? How did you make your decision?
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+>> Vim. Despite its learning curve, I have heard good things about it. 
 
 --
 
@@ -89,6 +89,8 @@ What terminal editor will be your preferred choice of use? How did you make your
 
 What graphical editor will you use? How did you make your decision? What are some interesting features of your editor? What are some useful keyboard shortcuts for your editor? How do you customize your editor?
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+>> Sublime Text, because it is widely used and recommended by others. I customized the editor by adjusting the color scheme and going through the preference settings. I like that I can use Command-d or Command-mouseclick to use multiple cursors. Moreover, I can create 2 (or multiple) workspaces using Option-Command-2 (vertical) or Shift-Option-Command-2 (horizontal).
 
- 
+
+
+
