@@ -1,9 +1,9 @@
 [Think Stats Chapter 2 Exercise 4](http://greenteapress.com/thinkstats2/html/thinkstats2003.html#toc24) (Cohen's d)
 
-Excercise 2.4.
-Using the variable `totalwgt_lb`, investigate whether first babies are lighter or heavier than others. Compute Cohen's d to quantify the difference between the groups. How does it compare to the difference in preganancy length?
+Exercise 2.4.
+Using the variable `totalwgt_lb`, investigate whether first babies are lighter or heavier than others. Compute Cohen's d to quantify the difference between the groups. How does it compare to the difference in pregnancy length?
 
->> The difference in mean total weight between first borns and others is about -0.089 standard deviations, which is arelatively small difference. But it is larger when compared to the effect size of the difference in pregnancy length (i.e., 0.029).
+>> The difference in mean total weight between first born and other birth order children is about -0.089 standard deviations, which is a relatively small difference. But it is larger when compared to the effect size of the difference in pregnancy length (i.e., 0.029).
 
 ```python
 import numpy as np
